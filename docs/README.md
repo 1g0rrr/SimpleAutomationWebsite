@@ -1,6 +1,6 @@
 # SimpleAutomation
 
-Cheap (starting at $1k) robot-arms with the most advanced AI inside (Tesla Bot uses the same) to automate repetitive stationary tasks in small and medium businesses.
+Cheap (starting at $1k) robot arms with the most advanced AI inside (Tesla Bot uses the same) to automate repetitive tasks in small/medium manufacturers.
 
 # Simple but capable hardware
 
