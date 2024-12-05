@@ -15,7 +15,13 @@
 
 <p style="font-family: 'Press Start 2P', monospace;">
    <h1 >Future</h1>
-   <p >A general-purpose two-armed robot. It can solder, glue, paint, do cable management, assemble into the case, work with tools, do quality control, pack, sort, and control other machines.</p>
+   <p >A general-purpose two-armed robot. 
+   
+   It can solder, glue, paint, do cable management, 
+   
+   work with tools, do quality control, pack, sort, 
+   
+   and control other machines.</p>
 </p>
 
 <p  style="font-family: 'Press Start 2P', monospace;">
