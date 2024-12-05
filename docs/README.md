@@ -1,4 +1,4 @@
-#
+# SimpleAutomation
 
 <p align="center" style="font-family: 'Press Start 2P', monospace;">
    <h1 align="center">SimpleAutomation</h1>
@@ -28,8 +28,11 @@
 
 </p>
    <p align="left">Fill out the quick form to be added to the waitlist: <a href="https://forms.gle/PHdRyp4vDFGtGWfw7">https://forms.gle/PHdRyp4vDFGtGWfw7</a>
-
+   </p>
+   <p align="left">
 Or reach out to us at X
 <a href="https://x.com/ihorbeaver">https://x.com/ihorbeaver</a>
 
    </p>
+
+#
