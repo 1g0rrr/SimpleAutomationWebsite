@@ -10,7 +10,7 @@
 </p>
 
 <p >
-<a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/ihorbeaver?ref_src=twsrc%5Etfw">Tweets by ihorbeaver</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/ihorbeaver?ref_src=twsrc%5Etfw">Loading tweets by ihorbeaver...</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 <p style="font-family: 'Press Start 2P', monospace;">
@@ -39,5 +39,3 @@ Or reach out to us at X
 <a href="https://x.com/ihorbeaver">https://x.com/ihorbeaver</a>
 
    </p>
-
-#
