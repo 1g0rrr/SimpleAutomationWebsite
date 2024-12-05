@@ -1,5 +1,7 @@
 # SimpleAutomation
 
+<a class="twitter-timeline" href="https://twitter.com/ihorbeaver?ref_src=twsrc%5Etfw">Tweets by ihorbeaver</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Cheap (starting at $1k) robot arms with the most advanced AI inside (Tesla Bot uses the same) to automate repetitive tasks in small/medium manufacturers.
 
 # Simple but capable hardware
